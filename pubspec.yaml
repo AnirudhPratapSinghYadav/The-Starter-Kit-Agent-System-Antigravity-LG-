@@ -1,0 +1,38 @@
+name: lg_starter_kit
+description: A modular, agentic-ready Flutter Starter Kit for Liquid Galaxy (GSoC 2026).
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.1.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.6
+  
+  # Core Liquid Galaxy Dependencies
+  dartssh2: ^2.13.0
+  shared_preferences: ^2.5.4
+  
+  # UI/UX
+  provider: ^6.1.5+1
+  google_fonts: ^6.1.0
+  
+  # Media
+  video_player: ^2.8.2
+  flutter_tts: ^4.2.2
+  
+  # Utilities
+  xml: ^6.3.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.1
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/intro.mp4
+    - assets/
