@@ -45,10 +45,11 @@ Safety and Open Source compliance are core to this submission:
 -   **Open Source**: Released under the **MIT License**, ensuring total transparency and compatibility with Liquid Galaxy LAB repositories.
 
 ## 📦 Installation
-1.  Clone: `git clone https://github.com/AnirudhPratapSinghYadavLG-Agentic-Flutter-Starter-2026.git`
+1.  Clone: `git clone https://github.com/AnirudhPratapSinghYadav/The-Starter-Kit-Agent-System-Antigravity-LG.git`
 2.  Install: `flutter pub get`
 3.  Run: `flutter run`
 
 ## License
 MIT License - Copyright (c) 2026 Liquid Galaxy Project.
+
 
